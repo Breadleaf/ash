@@ -1,2 +1,2 @@
 all:
-	clang++ src/*.cpp -o ash
+	clang++ src/*.cpp -m64 -o ash
